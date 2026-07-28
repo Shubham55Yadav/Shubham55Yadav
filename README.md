@@ -5,13 +5,15 @@
   [![GitHub followers](https://img.shields.io/github/followers/Shubham55Yadav?style=social)](https://github.com/Shubham55Yadav)
   [![GitHub User's stars](https://img.shields.io/github/stars/Shubham55Yadav?style=social)](https://github.com/Shubham55Yadav)
   
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shubham55Yadav&color=blue)
+  
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer and problem solver with a keen interest in building innovative solutions. I love working on diverse projects ranging from cloud technologies to AI/ML, and everything in between. Always excited to learn new technologies and contribute to open-source communities.
+I'm a passionate developer and problem solver with a keen interest in building innovative solutions. I love working on diverse projects ranging from cloud technologies to AI/ML, and everything in [...]
 
 ---
 
@@ -39,7 +41,7 @@ I'm a passionate developer and problem solver with a keen interest in building i
 > MeshPay is a secure offline payment routing simulator built using mesh networking principles.
 
 ### 📍 [Cloud Attendance System](https://github.com/Shubham55Yadav/Cloud-Attendance-System)
-> A cloud-based automated attendance system that simplifies attendance tracking for institutions and organizations. Features real-time dashboard, leave management, notifications, and face recognition.
+> A cloud-based automated attendance system that simplifies attendance tracking for institutions and organizations. Features real-time dashboard, leave management, notifications, and face recognit[...]
 
 ---
 
@@ -87,9 +89,9 @@ I'm a passionate developer and problem solver with a keen interest in building i
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham55yadav)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shubham55Yadav)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham55yadav@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-yadav-2210dct/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubham22Yadav/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkumaryadav55na@gmail.com)
   
 </div>
 
@@ -103,16 +105,10 @@ I'm a passionate developer and problem solver with a keen interest in building i
 | [SemanticDB](https://github.com/Shubham55Yadav/SemanticDB) | Vector database with HNSW & semantic search | ⭐ |
 | [MeshPay](https://github.com/Shubham55Yadav/MeshPay) | Offline payment routing simulator | ⭐ |
 | [Cloud Attendance System](https://github.com/Shubham55Yadav/Cloud-Attendance-System) | Automated cloud-based attendance tracking | ⭐ |
-| [Digital Nurture 5.0 JavaFSE](https://github.com/Shubham55Yadav/Digital-Nurture-5.O-JavaFSE) | Java hands-ons and assignments | ⭐ |
-| [first-contributions](https://github.com/Shubham55Yadav/first-contributions) | Help beginners contribute to open source | ⭐ |
 
 ---
 
 <div align="center">
-  
-  ### ⭐ If you find my work interesting, feel free to star my repositories!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Shubham55Yadav&color=blue)
   
   *Made with ❤️ by Shubham Yadav*
   
