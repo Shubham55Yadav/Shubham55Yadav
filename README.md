@@ -17,7 +17,7 @@ Software engineer with a strong foundation in systems programming, cloud enginee
 
 ---
 
-## 📊 GitHub & Activity (professional)
+## 📊 GitHub & Activity 
 
 <div align="center">
 
@@ -61,17 +61,7 @@ Software engineer with a strong foundation in systems programming, cloud enginee
 
 ---
 
-## 📄 Resume (linked)
-
-I have your resume linked below — download it or view it for the full, up-to-date professional history, education, and detailed project/role descriptions.
-
-- Resume (PDF): https://raw.githubusercontent.com/Shubham55Yadav/resume/62df11d57a7010ae0a25fa49f97176f5431ce426/shubham_yadav_resume.pdf
-
-(If you want, I can parse the resume and populate the Experience, Education, and Certifications sections in this README — I can redact any sensitive items first if required.)
-
----
-
-## 🛠️ Tech & Tools (quick)
+## 🛠️ Tech & Tools
 
 Java • Python • C++ • JavaScript • React • Node.js • Docker • MongoDB • PostgreSQL • Git • HNSW/Vector Search • Embeddings • DevOps & CI/CD
 
@@ -79,7 +69,6 @@ Java • Python • C++ • JavaScript • React • Node.js • Docker • Mong
 
 ## 📚 Learning & Interests
 
-- AI / Machine Learning
 - Database and search systems
 - Cloud architecture and DevOps
 - Security, performance engineering, and algorithms
@@ -93,7 +82,7 @@ Java • Python • C++ • JavaScript • React • Node.js • Docker • Mong
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-yadav-2210dct/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubham22Yadav/)
-[![X / Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shubham55Yadav)
+[![X / Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shubham22Yadav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkumaryadav55na@gmail.com)
 
 </div>
